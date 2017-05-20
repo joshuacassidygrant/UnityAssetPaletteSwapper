@@ -7,7 +7,7 @@ using System.Collections;
 
 //Version 0.1
 //19 May 2017
-//by joshuacgrant
+//by joshuacassidygrant
 
 [System.Serializable]
 public class ColourList: ScriptableObject {
